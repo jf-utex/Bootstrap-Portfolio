@@ -23,6 +23,7 @@ h1,
 h2,
 h3,
 p {
+  font-size: 18px;
   margin-bottom: 20px;
 }
 
@@ -65,7 +66,7 @@ h3 {
 
 #logo {
   float: left;
-  /*width: 250px;*/
+  width: 250px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 30px;
@@ -143,7 +144,7 @@ h3,
 /* main */
 
 #main-container {
-  padding-top: 130px;
+  padding-top: 40px;
 }
 
 .main-section {
